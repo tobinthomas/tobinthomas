@@ -26,5 +26,9 @@
   />
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobinthomas&show_icons=true&locale=en" alt="tobinthomas" /></p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tobinthomas&show_icons=true&locale=en&theme=github_dark&hide=prs&rank_icon=github&include_all_commits=true&count_private=true" 
+    alt="GitHub stats for Tobin Thomas" 
+  />
+</p>
