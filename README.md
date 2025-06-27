@@ -2,11 +2,11 @@
 
 ## 📝 About Me
 
-👨‍🎓 | B.Tech AI Student  
-🔬 | Focused on AI, Machine Learning & Full Stack Development  
-🧠 | Exploring OCR, LLM Fine-tuning, Cloud, Python & React  
-📬 | Reach me: **tobinthomas0907@gmail.com**  
-🌐 | LinkedIn: [Tobin Thomas](https://linkedin.com/in/tobinthomas53)
+👨‍🎓  B.Tech AI Student  
+🔬  Focused on AI, Machine Learning & Full Stack Development  
+🧠  Exploring OCR, LLM Fine-tuning, Cloud, Python & React  
+📬  Reach me: **tobinthomas0907@gmail.com**  
+🌐  LinkedIn: [Tobin Thomas](https://linkedin.com/in/tobinthomas53)
 
 ---
 
